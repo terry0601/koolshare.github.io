@@ -26,7 +26,7 @@
 ## 如果你更新出现问题，请按照以下方式手动更新：
 <pre>
 cd /tmp
-wget --no-check-certificate --timeout=15 https://raw.githubusercontent.com/koolshare/koolshare.github.io/master/shadowsocks/shadowsocks.tar.gz
+wget --no-check-certificate --timeout=15 https://raw.githubusercontent.com/koolshare/koolshare.github.io/master/shadowsocks/shadowsocks_3.3.7.tar.gz
 tar -zxvf /tmp/shadowsocks.tar.gz
 chmod +x /tmp/shadowsocks/install.sh
 sh /tmp/shadowsocks/install.sh
